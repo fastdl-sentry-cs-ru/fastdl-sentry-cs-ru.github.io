@@ -1,0 +1,14 @@
+// overview description file for cs_city_assault.bsp
+
+global 
+{
+	ZOOM	1.71
+	ORIGIN	35	355	-621
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_city_assault.bmp"
+	HEIGHT	-621
+}
