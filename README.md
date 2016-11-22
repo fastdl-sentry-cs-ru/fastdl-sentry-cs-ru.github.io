@@ -4,7 +4,7 @@ Hosting on GitHub files for Counter-Strike 1.6 server
 
 
 
-Links:
+# Links:
 
 
 HTTP
@@ -15,7 +15,9 @@ http://fastly.com.cdn.fastdl.sentry-cs.ru/files/
 
 http://raw.githubusercontent.com/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
 
-http://gitcdn.xyz/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/files/
+http://gitcdn.xyz/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
+
+http://gitcdn.link/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
 
 http://cdn.rawgit.com/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
 
@@ -31,6 +33,8 @@ https://fastly.com.cdn.fastdl.sentry-cs.ru/files/
 https://raw.githubusercontent.com/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
 
 https://gitcdn.xyz/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
+
+https://gitcdn.link/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
 
 https://cdn.rawgit.com/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
 
