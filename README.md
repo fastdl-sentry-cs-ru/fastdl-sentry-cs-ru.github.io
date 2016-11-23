@@ -25,8 +25,6 @@ http://gitcdn.herokuapp.com/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.
 
 http://gitcdn.link/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
 
-http://gitcdn.net/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
-
 http://gitnet.herokuapp.com/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
 
 
@@ -47,7 +45,5 @@ https://gitcdn.xyz/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master
 https://gitcdn.herokuapp.com/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
 
 https://gitcdn.link/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
-
-https://gitcdn.net/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
 
 https://gitnet.herokuapp.com/repo/fastdl-sentry-cs-ru/fastdl-sentry-cs-ru.github.io/master/files/
