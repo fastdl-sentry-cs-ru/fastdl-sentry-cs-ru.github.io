@@ -1,0 +1,17 @@
+maps/cs_city_assault.bsp
+maps/cs_city_assault.res
+halflife.wad
+cs_assault.wad
+gfx/env/backalleybk.tga
+gfx/env/backalleydn.tga
+gfx/env/backalleyft.tga
+gfx/env/backalleylf.tga
+gfx/env/backalleyrt.tga
+gfx/env/backalleyup.tga
+models/concrete_gibs.mdl
+models/scientist.mdl
+sound/ambience/citynoise.wav
+sound/ambience/track3.wav
+sound/ambience/track4.wav
+overviews/cs_city_assault.bmp
+overviews/cs_city_assault.txt
