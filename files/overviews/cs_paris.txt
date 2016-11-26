@@ -1,0 +1,14 @@
+// overview description file for cs_paris.bsp
+
+global 
+{
+	ZOOM	0.92
+	ORIGIN	0	512	0
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_paris.bmp"
+	HEIGHT	0
+}

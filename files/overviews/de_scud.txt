@@ -1,0 +1,14 @@
+// overview description file for de_scud.bsp
+
+global
+{
+	ZOOM	1.26
+	ORIGIN	-280	368	-640
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE "overviews/de_scud.bmp"
+	HEIGHT	-640
+}
